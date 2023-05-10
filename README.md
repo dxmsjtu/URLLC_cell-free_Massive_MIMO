@@ -7,9 +7,11 @@ Please, cite the aforementioned paper if you use this code.
 
 ## Content of the repository
 
-This repository contains two folders corresponding to the sections of the paper where the figures appear. Within each folder, a readme document explains how to use the functions to generate plots like the ones appearing in the paper.  
+This repository contains two folders corresponding to the sections of the paper where the figures appear. Within each folder, a readme document
+ explains how to use the functions to generate plots like the ones appearing in the paper.  
 
-The following auxiliary matlab files have been taken from the github repository [https://github.com/emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book):
+The following auxiliary matlab files have been taken from the github repository
+ [https://github.com/emilbjornson/cell-free-book](https://github.com/emilbjornson/cell-free-book):
   
   - `functionChannelEstimates.m`
   - `functionCombinerPrecoder.m`
